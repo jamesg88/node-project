@@ -7,6 +7,11 @@ body{
     list-style-type: none;
 }
 
+a{
+    text-decoration-line: none;
+    color: black;
+}
+
 .home-content{
     margin-top: 20%;
     text-align: center;
@@ -21,6 +26,10 @@ h2{
 center{
     text-align: center;
     /* margin-top: 45%; */
+}
+
+about.p{
+    word-spacing: 1em;
 }
 
 li{
